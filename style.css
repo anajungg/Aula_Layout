@@ -1,12 +1,18 @@
 body{
-    background-color: antiquewhite;
+    background-color:antiquewhite;
+}
+.yo2{
+    padding: 100;
+    margin: 20;
+    margin-right: 900;
+    background-color: rgb(102, 11, 11);
 }
 .yo{
-    padding: 50;
+    
+    padding: 150;
     margin: 20;
-    background-color: rgb(100, 11, 11);
-    margin-right: 4945;
+    background-color:rgb(102, 11, 11);
 }
-.flex {
+.flex{
     display: flex;
 }
