@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+.yo{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(100, 11, 11);
+    margin-right: 4945;
+}
+.flex {
+    display: flex;
+}
