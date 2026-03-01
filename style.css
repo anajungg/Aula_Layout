@@ -22,7 +22,7 @@ body{
 
 .blue{
 background-color:  rgb(109, 6, 6) ;
-padding-bottom: 380;
+padding-bottom: 390;
 }
 .pink{
 background-color:  rgb(109, 6, 6) ;
@@ -31,4 +31,5 @@ padding-bottom: 370;
 .beige{
 padding-right: 450px;
 background-color:antiquewhite; 
+margin: 2%;
 }
