@@ -1,7 +1,30 @@
 body{
     background-color: antiquewhite;
 }
-
+#navbar{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(109, 6, 6);
+    color:antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 18px;
+}
+.quadrado{
+    padding: 130;
+    margin: 35;
+    background-color: rgb(109, 6, 6);
+    padding-left: 40;
+    padding-bottom: 40;
+    padding-right: 40;
+    padding-top: 40;
+    color: rgb(230, 169, 169);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 18px;
+    
+} 
+.cor{
+    color: antiquewhite;
+}
 .yo{
     padding: 130;
     margin: 30;
@@ -43,4 +66,13 @@ margin-right: 398;
     padding-bottom: 430;
     margin-top: 30;
     background-color:  rgb(109, 6, 6);
+}
+
+footer {
+background-color: rgb(240, 222, 222);
+padding: 10px;
+text-align: center;
+color:rgb(102, 12, 12);
+margin-top: 8px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
